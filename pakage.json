@@ -2,7 +2,7 @@
   "name": "timnasa-tmd1",
   "version": "1.5.0",
   "description": "WhatsApp Bot",
-  "main": "index.js",
+  "main": "commands/main.js",
   "scripts": {
     "start": "node index.js"
   },
