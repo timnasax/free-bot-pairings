@@ -1,7 +1,7 @@
 {
   "name": "timnasa-tmd1",
   "version": "1.5.0",
-  "description": "Advanced WhatsApp Bot by TimnasaTech",
+  "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,6 +12,7 @@
     "pino": "^8.14.1",
     "qrcode": "^1.5.3",
     "fs-extra": "^11.1.1",
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "link-preview-js": "^3.0.0"
   }
 }
